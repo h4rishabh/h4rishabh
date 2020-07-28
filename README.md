@@ -1,6 +1,4 @@
-# Hrishabh Kumar 
-
-## Hello World! <img src="https://raw.githubusercontent.com/hrish4bh/hrish4bh/master/images/waving.gif" width="30px"></h2>
+## Hello World! <img src="https://raw.githubusercontent.com/hrish4bh/hrish4bh/master/images/waving.gif" width="30px"> I am Hrishabh</h2>
 <br />
 <a href="https://twitter.com/hrish4bh">
   <img align="left" alt="Hrishabh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -17,7 +15,7 @@
 <a href="https://instagram.com/hrishabh._.hb/">
   <img align="left" alt="Hrishabh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/syeda_reeha_quasar/">
+<a href="https://www.facebook.com/hrishabh.bajaj1/">
   <img align="left" alt="Hrishabh's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <!-- <a href="https://www.hackerrank.com/hrishabh0007/">
@@ -26,7 +24,7 @@
 
 <br />
 
-## About Me 🧐
+## About Me  🧐
 I have done undergraduate course specialised in Computer Science and Engineering. I am also familiar with a variety of programming languages, frameworks and libraries including Java, JavaScript, Node.js, ReactJS, Redux etc. I also write tech blog in my spare time. 
 
 <br />
@@ -41,6 +39,7 @@ I have done undergraduate course specialised in Computer Science and Engineering
 - 🚀 I love to explore different Technologies 🛠.
 - 💬 Ask me about anything, I would be glad to help (if I could ✨).
 - 📫 How to reach me: Twitter / LinkedIn (preferable)
+- 👨‍🎨 Recently I won an <a href ="https://twitter.com/GitHubEducation/status/1286753167519166469?s=20">#MyOctocat Challenge</a> 💫
 - ⚡ Fun fact: My Coding Blog <a href = "https://www.simpleway2code.me/">SimpleWay2Code</a> has 500k+ views 😇
 
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=hrish4bh&show_icons=true" /></p>
