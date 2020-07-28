@@ -1,4 +1,4 @@
-## Hello World! <img src="https://raw.githubusercontent.com/hrish4bh/hrish4bh/master/images/waving.gif" width="30px"> I am Hrishabh</h2>
+## Hello World! <img src="https://raw.githubusercontent.com/hrish4bh/hrish4bh/master/images/waving.gif" width="30px"></h2>
 <br />
 <a href="https://twitter.com/hrish4bh">
   <img align="left" alt="Hrishabh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -29,12 +29,12 @@ I have done undergraduate course specialised in Computer Science and Engineering
 
 <br />
 
-<img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/hrish4bh/hrish4bh/master/images/Main-Image.jpg" />
+<img align="right" height="280" width="375" alt="GIF" src="https://raw.githubusercontent.com/hrish4bh/hrish4bh/master/images/Main-Image.jpg" />
 
 
 ### Know more about me:
 
-- 🔭 Currently I'm in love with JavaScript 👨‍💻.
+- 😍 Currently I'm in love with JavaScript 👨‍💻.
 - 🌱 I am a working as a Software Developer 🐞⚙
 - 🚀 I love to explore different Technologies 🛠.
 - 💬 Ask me about anything, I would be glad to help (if I could ✨).
