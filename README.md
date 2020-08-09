@@ -42,6 +42,6 @@ I have done undergraduate course specialised in Computer Science and Engineering
 - 👨‍🎨 Recently I won an <a href ="https://twitter.com/GitHubEducation/status/1286753167519166469?s=20">#MyOctocat Challenge</a> 💫
 - ⚡ Fun fact: My Coding Blog <a href = "https://www.simpleway2code.me/">SimpleWay2Code</a> has 500k+ views 😇
 
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=hrish4bh&show_icons=true" /></p>
+<!--<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=hrish4bh&show_icons=true" /></p> -->
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrish4bh&theme=radical&hide_langs_below=1" /> -->
