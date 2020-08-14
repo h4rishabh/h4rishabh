@@ -25,7 +25,7 @@
 <br />
 
 ## About Me  🧐
-I have done undergraduate course specialised in Computer Science and Engineering. I am also familiar with a variety of programming languages, frameworks and libraries including Java, JavaScript, Node.js, ReactJS, Redux etc. I also write tech blog in my spare time. 
+I have done Bachelors in Computer Science and Engineering. I am also familiar with a variety of programming languages, frameworks and libraries including Java, JavaScript, Node.js, ReactJS, Redux etc. I also write tech blog in my spare time. 
 
 <br />
 
