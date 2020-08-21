@@ -1,15 +1,15 @@
-## Hello World! <img src="https://raw.githubusercontent.com/hrish4bh/hrish4bh/master/images/waving.gif" width="30px"></h2>
+## Hello World! <img src="https://raw.githubusercontent.com/h4rishabh/h4rishabh/master/images/waving.gif" width="30px"></h2>
 <br />
-<a href="https://twitter.com/hrish4bh">
+<a href="https://twitter.com/h4rishabh">
   <img align="left" alt="Hrishabh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/hrishabh-kumar/">
   <img align="left" alt="Hrishabh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/hrish4bh">
+<a href="https://github.com/h4rishabh">
   <img align="left" alt="Hrishabh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/hrish4bh">
+<a href="https://t.me/h4rishabh">
   <img align="left" alt="Hrishabh's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://instagram.com/hrishabh._.hb/">
@@ -29,7 +29,7 @@ I have done Bachelors in Computer Science and Engineering. I am also familiar wi
 
 <br />
 
-<img align="right" height="280" width="375" alt="GIF" src="https://raw.githubusercontent.com/hrish4bh/hrish4bh/master/images/Main-Image.jpg" />
+<img align="right" height="280" width="375" alt="GIF" src="https://raw.githubusercontent.com/h4rishabh/h4rishabh/master/images/Main-Image.jpg" />
 
 
 ### Know more about me:
@@ -42,6 +42,6 @@ I have done Bachelors in Computer Science and Engineering. I am also familiar wi
 - 👨‍🎨 Recently I won an <a href ="https://twitter.com/GitHubEducation/status/1286753167519166469?s=20">#MyOctocat Challenge</a> 💫
 - ⚡ Fun fact: My Coding Blog <a href = "https://www.simpleway2code.me/">SimpleWay2Code</a> has 500k+ views 😇
 
-<!--<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=hrish4bh&show_icons=true" /></p> -->
+<!--<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=h4rishabh&show_icons=true" /></p> -->
 
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrish4bh&theme=radical&hide_langs_below=1" /> -->
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4rishabh&theme=radical&hide_langs_below=1" /> -->
