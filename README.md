@@ -34,13 +34,12 @@ I have done Bachelors in Computer Science and Engineering. I am also familiar wi
 
 ### Know more about me:
 
-- 😍 Currently I'm in love with JavaScript 👨‍💻.
 - 🌱 I am a working as a Software Developer 🐞⚙
-- 🚀 I love to explore different Technologies 🛠.
+- 🚀 I love to explore and work on different Technologies 🛠.
 - 💬 Ask me about anything, I would be glad to help (if I could ✨).
 - 📫 How to reach me: Twitter / LinkedIn (preferable)
 - 👨‍🎨 Recently I won an <a href ="https://twitter.com/GitHubEducation/status/1286753167519166469?s=20">#MyOctocat Challenge</a> 💫
-- ⚡ Fun fact: My Coding Blog <a href = "https://www.simpleway2code.me/">SimpleWay2Code</a> has 600k+ views 😇
+- ⚡ Fun fact: My Coding Blog <a href = "https://www.simpleway2code.me/">SimpleWay2Code</a> has 750k+ views 😇
 
 <!--<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=h4rishabh&show_icons=true" /></p> -->
 
