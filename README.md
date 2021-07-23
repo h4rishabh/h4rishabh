@@ -25,7 +25,7 @@
 <br />
 
 ## About Me  🧐
-I have done Bachelors in Computer Science and Engineering. I am also familiar with a variety of programming languages, frameworks and libraries including Java, JavaScript, Node.js, ReactJS, Redux etc. I also write tech blog in my spare time. 
+I have done Bachelors in Computer Science and Engineering. I am also familiar with a variety of tools and technologies like Java, JavaScript, Spring, Springboot, Restful Web Services, Microserrvices  etc. I also write tech blog in my spare time. 
 
 <br />
 
@@ -39,7 +39,7 @@ I have done Bachelors in Computer Science and Engineering. I am also familiar wi
 - 💬 Ask me about anything, I would be glad to help (if I could ✨).
 - 📫 How to reach me: Twitter / LinkedIn (preferable)
 - 👨‍🎨 Recently I won an <a href ="https://twitter.com/GitHubEducation/status/1286753167519166469?s=20">#MyOctocat Challenge</a> 💫
-- ⚡ Fun fact: My Coding Blog <a href = "https://www.simpleway2code.me/">SimpleWay2Code</a> has 750k+ views 😇
+- ⚡ Fun fact: My Coding Blog <a href = "https://www.simpleway2code.me/">SimpleWay2Code</a> has 850k+ views 😇
 
 <!--<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=h4rishabh&show_icons=true" /></p> -->
 
