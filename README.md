@@ -25,7 +25,7 @@
 <br />
 
 ## About Me  🧐
-I have done Bachelors in Computer Science and Engineering. I am also familiar with a variety of tools and technologies like Java, JavaScript, Spring, Springboot, Restful Web Services, Microserrvices  etc. I also write tech blog in my spare time. 
+I am full-time Software Engineer. I have done Bachelors in Computer Science and Engineering. I am familiar with a variety of tools and technologies like Java, JavaScript, Spring, Springboot, Restful Web Services, Microserrvices etc. I also write tech blog in my spare time. 
 
 <br />
 
