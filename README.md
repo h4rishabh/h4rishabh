@@ -43,4 +43,4 @@ I am full-time Software Engineer. I have done Bachelors in Computer Science and 
 
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=h4rishabh&show_icons=true" /></p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4rishabh&theme=radical&hide_langs_below=1" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4rishabh&theme=radical&hide_langs_below=1" /> -->
