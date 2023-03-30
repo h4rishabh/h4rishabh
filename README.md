@@ -25,7 +25,7 @@
 <br />
 
 ## About Me  🧐
-I am full-time Software Engineer. I have done Bachelors in Computer Science and Engineering. I am familiar with a variety of tools and technologies like Java, JavaScript, Spring, Springboot, Restful Web Services, Microserrvices etc. I also write tech blog in my spare time. 
+I am full-time Software Engineer. I have done Bachelors in Computer Science and Engineering. I am familiar with a variety of tools and technologies like Java, JavaScript, Spring, Springboot, Restful Web Services, Microservices etc. I also write tech blog in my spare time. 
 
 <br />
 
@@ -41,6 +41,6 @@ I am full-time Software Engineer. I have done Bachelors in Computer Science and 
 - 👨‍🎨 Recently I won an <a href ="https://twitter.com/GitHubEducation/status/1286753167519166469?s=20">#MyOctocat Challenge</a> 💫
 - ⚡ Fun fact: My Coding Blog <a href = "https://www.simpleway2code.me/">SimpleWay2Code</a> has 1.4M+ views 😇
 
-<!--<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=h4rishabh&show_icons=true" /></p> -->
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=h4rishabh&show_icons=true" /></p>
 
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4rishabh&theme=radical&hide_langs_below=1" /> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4rishabh&theme=radical&hide_langs_below=1" />
