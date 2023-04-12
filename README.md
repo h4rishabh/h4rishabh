@@ -36,7 +36,7 @@ I am full-time Software Engineer. I have done Bachelors in Computer Science and 
 
 - 🌱 I am a working as a Software Developer 🐞⚙
 - 🚀 I love to explore and work on different Technologies 🛠.
-- 💬 Ask me about anything, I would be glad to help (if I could ✨).
+- 💬 Ask me about anything, I would be glad to help.
 - 📫 How to reach me: Twitter / LinkedIn (preferable)
 - 👨‍🎨 Recently I won an <a href ="https://twitter.com/GitHubEducation/status/1286753167519166469?s=20">#MyOctocat Challenge</a> 💫
 - ⚡ Fun fact: My Coding Blog <a href = "https://www.simpleway2code.me/">SimpleWay2Code</a> has 1.4M+ views 😇
