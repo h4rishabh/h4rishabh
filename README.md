@@ -1,16 +1,16 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/h4rishabh/h4rishabh/master/images/waving.gif" width="30px"></h2>
 <br />
 <a href="https://www.linkedin.com/in/hrishabh-kumar/">
-  <img align="left" alt="Hrishabh's Linkdein" width="22px" src="https://cdn.simpleicons.org/linkedin/0cf9/00ccff" />
+  <img align="left" alt="Hrishabh's Linkdein" width="22px" src="https://cdn.simpleicons.org/linkedin/black/00ccff" />
 </a>
 <a href="https://twitter.com/h4rishabh">
-  <img align="left" alt="Hrishabh's Twitter" width="22px" src= "https://cdn.simpleicons.org/twitter/0cf9/00ccff" />
+  <img align="left" alt="Hrishabh's Twitter" width="22px" src= "https://cdn.simpleicons.org/twitter/black/00ccff" />
 </a>
 <a href="https://instagram.com/h4rishabh/">
-  <img align="left" alt="Hrishabh's Instagram" width="22px" src="https://cdn.simpleicons.org/instagram/0cf9/00ccff" />
+  <img align="left" alt="Hrishabh's Instagram" width="22px" src="https://cdn.simpleicons.org/instagram/black/00ccff" />
 </a>
  <a href="https://github.com/h4rishabh">
-  <img align="left" alt="Hrishabh's Github" width="22px" src="https://cdn.simpleicons.org/github/0cf9/00ccff" />
+  <img align="left" alt="Hrishabh's Github" width="22px" src="https://cdn.simpleicons.org/github/black/00ccff" />
 </a>
 <!--<a href="https://t.me/h4rishabh">
   <img align="left" alt="Hrishabh's Telegram" width="22px" src="https://api.iconify.design/simple-icons/github.svg?color=lightgreen&height=100" />
