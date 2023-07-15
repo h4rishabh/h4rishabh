@@ -1,18 +1,18 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/h4rishabh/h4rishabh/master/images/waving.gif" width="30px"></h2>
 <br />
 <a href="https://www.linkedin.com/in/hrishabh-kumar/">
-  <img align="left" alt="Hrishabh's Linkdein" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Hrishabh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/h4rishabh">
-  <img align="left" alt="Hrishabh's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Hrishabh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://instagram.com/h4rishabh/">
-  <img align="left" alt="Hrishabh's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Hrishabh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<!-- <a href="https://github.com/h4rishabh">
+ <a href="https://github.com/h4rishabh">
   <img align="left" alt="Hrishabh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/h4rishabh">
+<!--<a href="https://t.me/h4rishabh">
   <img align="left" alt="Hrishabh's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.facebook.com/hrishabh.bajaj1/">
